@@ -30,7 +30,8 @@ public class boj_s1_6236_용돈관리 {
         // }
         // }
         int result = 0;
-        r = 100_000_000;
+        r = 1_000_000_000;
+
         while (l <= r) {
             int mid = (l + r) / 2;
 
